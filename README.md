@@ -39,3 +39,7 @@
 ## 🔥 Streak
 
 ![Streak](https://streak-stats.demolab.com/?user=github979&theme=tokyonight)
+
+## activity graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=github979&theme=react-dark&area=true)
