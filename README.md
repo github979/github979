@@ -1,16 +1,41 @@
-## Hi there 👋
+# ⚡ Open to Opportunities
 
-<!--
-**github979/github979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 I’m a developer focused on building real-world projects and improving my DSA skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+- 🚀 Currently working on DSA + projects
+- 🧠 Learning: Java, Web Dev, Problem Solving
+- 💬 Open to discussions on coding, projects, and growth
+- 📫 Reach me at: parmartamanna71email@gmail.com
+
+---
+
+## 🛠️ Technologies & Tools
+
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)
+
+---
+
+## 📌 Primary Focus
+- 💻 DSA (Data Structures & Algorithms)
+- 🌐 Web Development
+- ⚡ Building Consistent Projects
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=github979&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Streak
+
+![Streak](https://streak-stats.demolab.com/?user=github979&theme=tokyonight)
