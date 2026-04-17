@@ -20,6 +20,9 @@
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)
+![Rust](https://img.shields.io/badge/Rust-5C4033?style=for-the-badge&logo=rust)
+![MySQL](https://img.shields.io/badge/MySQL-2ECC71?style=for-the-badge&logo=mysql)
+
 
 ---
 
