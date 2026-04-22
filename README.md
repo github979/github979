@@ -22,6 +22,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)
 ![Rust](https://img.shields.io/badge/Rust-5C4033?style=for-the-badge&logo=rust)
 ![MySQL](https://img.shields.io/badge/MySQL-2ECC71?style=for-the-badge&logo=mysql)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=NEON)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 
 ---
