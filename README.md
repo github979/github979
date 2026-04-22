@@ -32,8 +32,8 @@
 ## 📌 Primary Focus
 - 💻 DSA (Data Structures & Algorithms)
 - 🌐 Web Development
-- ⚡ Building Consistent Projects
-
+- 🤖 Machine Learning  
+- ⚡ It works… don’t touch it.
 ---
 
 ## 📊 GitHub Stats
