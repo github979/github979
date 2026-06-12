@@ -21,6 +21,15 @@
 
 ---
 
+##🏆 Highlights
+
+• Google Cloud Certified
+• NVIDIA Certified
+• Kaggle Competitor
+• Creator of Pehchaan
+
+---
+
 ## 🛠️ Technologies & Tools
 
 ### 💻 Languages
@@ -45,15 +54,6 @@
 
 ### 🧪 Currently Exploring
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
----
-
-##🏆 Highlights
-
-• Google Cloud Certified
-• NVIDIA Certified
-• Kaggle Competitor
-• Creator of Pehchaan
-
 ---
 
 ## 📌 Primary Focus
